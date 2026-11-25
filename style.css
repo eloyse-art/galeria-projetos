@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f1ed;
+    background-color: #e4c6a8;
     margin: 0;
     padding: 40px;
 }
@@ -35,7 +35,7 @@ h1 {
     width: 100%;
     height: 280px;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 
 
